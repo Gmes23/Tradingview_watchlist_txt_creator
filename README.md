@@ -7,7 +7,7 @@
 This script creates a txt file of all the Coinbase coins with USD pairings, for easy import to Trading view watchlist.
 
 ## Getting Started
-I use [Coinbase Pro API](https://github.com/danpaquin/coinbasepro-python/blob/master/README.md) library by Daniel Paquin for the data , 
+I used [Coinbase Pro API](https://github.com/danpaquin/coinbasepro-python/blob/master/README.md) library by Daniel Paquin for the data , 
 
 - You may manually install the project or use ```pip```:
 ```python
