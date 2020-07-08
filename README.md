@@ -1,4 +1,4 @@
-# Tradingview Watchlist Import TXT Files from Exchanges
+# Tradingview Watchlist Import TXT Files Creator from Exchanges
 
 > Below you'll find Tradingview import files for Coinbase with USD pairings
 
