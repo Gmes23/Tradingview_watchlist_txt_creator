@@ -1,4 +1,5 @@
 import cbpro
+
 public_client = cbpro.PublicClient()
 
 getProducts = public_client.get_products()
