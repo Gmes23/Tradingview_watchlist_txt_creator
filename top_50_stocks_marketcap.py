@@ -15,5 +15,14 @@ for stock_ticker in stock_tickers:
     li.append(stock_ticker.text)
     # print(stock_ticker.text, end='\n'*2)
 
-li2 = li[::3]
+li2 = []
+for i in range(2, len(li), 4):
+    li2.append(li[i])
+
+f = open("top_50_marketcap.txt", "a")
+for ticker in li2:
+    f.write(ticker)
+    f.write('\n')
+f.close()
+
 print(li2)
