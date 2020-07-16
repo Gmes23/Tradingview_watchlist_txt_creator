@@ -19,7 +19,7 @@ li2 = []
 for i in range(2, len(li), 4):
     li2.append(li[i])
 
-f = open("top_50_marketcap.txt", "a")
+f = open("top_50_stocks_marketcap.txt", "a")
 for ticker in li2:
     f.write(ticker)
     f.write('\n')
