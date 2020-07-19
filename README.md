@@ -1,6 +1,6 @@
 # Tradingview Watchlist Import TXT Files Creator from Exchanges
 
-> Below you'll find Tradingview txt import files for Coinbase with USD pairings, Top 50 stock tickers by marketcap ( USA )
+> Below you'll find Tradingview txt import files for Coinbase with USD pairings, Top 50 stock tickers by marketcap ( USA ), and Most Populay Currencies
 
 ## Usage
 
